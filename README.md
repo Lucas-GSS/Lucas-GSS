@@ -1,27 +1,37 @@
-## Hi there, I'm Lucas Gabriel 👋
+# Olá, eu sou Lucas Gabriel! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on development of my hard and soft skills, goaling be a great professional
-- 🌱 I’m currently learning full stack web development at Trybe
-- 📫 How to reach me: lucasgabrieldesouza9@gmail.com
-- 😄 Pronouns: He/Him
--->
-##
-<div align="center">
-  <a href="https://github.com/Lucas-GSS/Lucas-GSS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-GSS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-GSS&layout=compact&langs_count=7&theme=dark"/>
+- Atualmente sou estudante de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/). Já passei pelos módulos de Fundamentos do Desenvolvimento Web, FrontEnd, estou finalizando o BackEnd e prestes a entrar na fase final do curso em que vou aprender sobre Ciência da Computação.
+
+- Meu objetivo neste momento é conquistar a minha primeira oportunidade no mercado de trabalho.
+
+- "Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende".
+
+## Ferramentas e Tecnologias
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div>
-  
-  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> <hr>
-  
-<div align="center"> <br> 
-  <a href = "mailto:lucasgabrieldesouza9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-gabriel-42866b211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+
+##
+
+  [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-GSS&count_private=true&show_icons=true&theme=dracula)](https://github.com/Lucas-GSS/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-GSS&layout=compact&theme=dracula)](https://github.com/Lucas-GSS/github-readme-stats)
