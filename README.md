@@ -2,8 +2,6 @@
 
 ## Sobre Mim
 
-- Atualmente sou estudante de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/). No momento estou finalizando o módulo de BackEnd e prestes a entrar no último módulo do curso, que é sobre Ciência da Computação.
-
 - Desde que comecei a estudar algoritmos no Visualg com Portugol, estou cada vez mais encantado com o que podemos fazer, transformando problemas da vida real em soluções estruturadas, lógicas e organizadas. Era impossível não me apaixonar.
 
 - Recentemente comecei a aprender sobre Programação Orientada a Objetos e eu achei simplesmente fantástico. Estou procurando me aprofundar ainda mais no assunto assim como também procuro melhorar na implementação de testes. Acredito que aliando ambos vou produzir códigos de qualidade.
