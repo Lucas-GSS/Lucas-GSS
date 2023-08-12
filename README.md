@@ -4,7 +4,7 @@
 
 - Me formei, em Dezembro 2021, como desenvolvedor Web Full Stack na [Trybe](https://www.betrybe.com/), onde além de conhecimentos técnicos, pude aprender e praticar minhas Soft Skills. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/) 
 
-- Meu objetivo neste momento é conquistar a minha primeira oportunidade no mercado de trabalho. Quero muito fazer parte de uma equipe, aprender e o aplicar meus conhecimentos para construção de soluções valiosas.
+- Meu objetivo neste momento é conquistar a minha primeira oportunidade no mercado de trabalho. Quero muito fazer parte de uma equipe, aprender e aplicar meus conhecimentos para construção de soluções valiosas.
 
 # 🛠 Tecnologias que estudei e desenvolvi meus projetos
 
