@@ -2,15 +2,9 @@
 
 ## Sobre Mim
 
-- Desde que comecei a estudar algoritmos no Visualg com Portugol, estou cada vez mais encantado com o que podemos fazer, transformando problemas da vida real em soluções estruturadas, lógicas e organizadas. Era impossível não me apaixonar.
+- Me formei, em Dezembro 2021, como desenvolvedor Web Full Stack na [Trybe](https://www.betrybe.com/), onde além de conhecimentos técnicos, pude aprender e praticar minhas Soft Skills. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na [Uninter](https://www.uninter.com/) 
 
-- Recentemente comecei a aprender sobre Programação Orientada a Objetos e eu achei simplesmente fantástico. Estou procurando me aprofundar ainda mais no assunto assim como também procuro melhorar na implementação de testes. Acredito que aliando ambos vou produzir códigos de qualidade.
-
-- Meu objetivo neste momento é conquistar a minha primeira oportunidade no mercado de trabalho. Adorei tudo que aprendi até aqui, porém o BackEnd despertou muito meu interesse e adoraria iniciar minha carreira como Desenvolvedor BackEnd.
-
-- Meu hobbie favorito é assistir filmes e séries. Porém além de assistir eu gosto de refletir sobre a obra, ler críticas e trocar percepções com meus amigos. Acho que é uma ótima forma de exercitar pensamento crítico e comunicação.
-
-- "Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende".
+- Meu objetivo neste momento é conquistar a minha primeira oportunidade no mercado de trabalho. Quero muito fazer parte de uma equipe, aprender e o aplicar meus conhecimentos para construção de soluções valiosas.
 
 # 🛠 Tecnologias que estudei e desenvolvi meus projetos
 
